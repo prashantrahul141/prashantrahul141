@@ -35,31 +35,31 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <summary><h2>📘 Projects</h2></summary>
  
 <a target='_blank' href="https://github.com/PlayInSync/PlayInSync-Server">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=PlayInSync&repo=PlayInSync-Server&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Server"/>
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlayInSync&repo=PlayInSync-Server&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Server"/>
 </a>
 
 <a target='_blank' href="https://github.com/PlayInSync/PlayInSync-Client">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=PlayInSync&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlayInSync&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
 </a>
 
 <br>
  
 <a target='_blank' href="https://github.com/prashantrahul141/Coding-Train-Challenges-python">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Coding-Train-Challenges-python&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Coding-Train-Challenges-python&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <a target='_blank' href="https://github.com/prashantrahul141/Simple-Blog-App-with-NEXTJS">
-<img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <br>
 
 <a target='_blank' href="https://github.com/prashantrahul141/prashantrahul141.github.io">
-<img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=prashantrahul141.github.io&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=prashantrahul141.github.io&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <a target='_blank' href="https://github.com/prashantrahul141/BoidsinPython">
-<img width="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=BoidsinPython&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=BoidsinPython&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <a href="https://github.com/prashantrahul141?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=1DF2DD&logo=repo&border_radius=6"/></a>
@@ -126,9 +126,9 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <img src='https://streak-stats.demolab.com?user=prashantrahul141&theme=dark&hide_border=true&border_radius=8&stroke=188585&ring=1DF2DD&currStreakLabel=1DF2DD&fire=B2F2EE&sideLabels=18C5B4&background=1F222E'/>
 
 <h4>💻 GitHub Profile Stats</h4>
-<img alt="Prashant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantrahul141&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide=Jupyter%20Notebook&border_radius=8" height="192px"/>
+<img alt="Prashant's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=prashantrahul141&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide=Jupyter%20Notebook&border_radius=8" height="192px"/>
 <br>
-<img alt="Prashant's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=prashantrahul141&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&border_radius=8" height="192px"/>
+<img alt="Prashant's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=prashantrahul141&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&border_radius=8" height="192px"/>
 <br>
 <img alt="Prashant's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=prashantrahul141&bg_color=1F222E&color=21A6A6&line=1DF2DD&point=F8D866&hide_border=true&title_color=1DF2DD&radius=10&area=true&area_color=21a6a6&border_radius=8" />
 </details>
