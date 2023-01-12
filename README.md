@@ -44,8 +44,8 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 
 <br>
  
-<a target='_blank' href="https://github.com/prashantrahul141/Coding-Train-Challenges-python">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Coding-Train-Challenges-python&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<a target='_blank' href="https://github.com/prashantrahul141/t3-todo">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=t3-todo&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <a target='_blank' href="https://github.com/prashantrahul141/Simple-Blog-App-with-NEXTJS">
