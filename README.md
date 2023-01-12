@@ -48,18 +48,18 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=t3-todo&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
-<a target='_blank' href="https://github.com/prashantrahul141/Simple-Blog-App-with-NEXTJS">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<a target='_blank' href="https://github.com/prashantrahul141/ImageEffects">
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=ImageEffects&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <br>
 
-<a target='_blank' href="https://github.com/prashantrahul141/prashantrahul141.github.io">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=prashantrahul141.github.io&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<a target='_blank' href="https://github.com/prashantrahul141/Simple-Blog-App-with-NEXTJS">
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
-<a target='_blank' href="https://github.com/prashantrahul141/BoidsinPython">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=BoidsinPython&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<a target='_blank' href="https://github.com/prashantrahul141/prashantrahul141.github.io">
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=prashantrahul141.github.io&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
 </a>
 
 <a href="https://github.com/prashantrahul141?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=1DF2DD&logo=repo&border_radius=6"/></a>
