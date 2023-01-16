@@ -34,12 +34,12 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <details open>
 <summary><h2>📘 Projects</h2></summary>
  
-<a target='_blank' href="https://github.com/PlayInSync/PlayInSync-Server">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlayInSync&repo=PlayInSync-Server&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Server"/>
+<a target='_blank' href="https://github.com/prashantrahul141/PlayInSync-Server">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Server&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Server"/>
 </a>
 
-<a target='_blank' href="https://github.com/PlayInSync/PlayInSync-Client">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlayInSync&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
+<a target='_blank' href="https://github.com/prashantrahul141/PlayInSync-Client">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
 </a>
 
 <br>
