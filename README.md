@@ -21,9 +21,9 @@
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prashantrahul141?color=188585&labelColor=2C3840&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 
-<a href='https://twitter.com/prashrahul141' target='_blank'>
+<!-- <a href='https://twitter.com/prashrahul141' target='_blank'>
 <img title="Follow me on Twitter" alt="followers"  src="https://custom-icon-badges.demolab.com/twitter/follow/prashrahul141?color=188585&label=%40prashrahul141&logo=twitter&logoColor=white&style=for-the-badge&labelColor=2C3840">
-</a>
+</a> -->
 </p>
 <br>
 
