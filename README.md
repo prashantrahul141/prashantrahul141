@@ -34,6 +34,15 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <details open>
 <summary><h2>📘 Projects</h2></summary>
  
+ <a target='_blank' href="https://github.com/prashantrahul141/plex">
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=plex&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="plex"/>
+</a>
+
+<a target='_blank' href="https://github.com/prashantrahul141/t3-todo">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=t3-todo&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="t3-todo"/>
+</a>
+<br>
+
 <a target='_blank' href="https://github.com/prashantrahul141/PlayInSync-Server">
 <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Server&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Server"/>
 </a>
@@ -42,26 +51,14 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
 </a>
 
-<br>
- 
-<a target='_blank' href="https://github.com/prashantrahul141/t3-todo">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=t3-todo&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
-</a>
-
 <a target='_blank' href="https://github.com/prashantrahul141/ImageEffects">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=ImageEffects&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=ImageEffects&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="ImageEffects"/>
 </a>
-
-<br>
 
 <a target='_blank' href="https://github.com/prashantrahul141/Simple-Blog-App-with-NEXTJS">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Simple-Blog-App-with-NextJs"/>
 </a>
-
-<a target='_blank' href="https://github.com/prashantrahul141/prashantrahul141.github.io">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=prashantrahul141.github.io&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Coding-Train-Challenges-python"/>
-</a>
-
+<br>
 <a href="https://github.com/prashantrahul141?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=1DF2DD&logo=repo&border_radius=6"/></a>
 
 </details>
