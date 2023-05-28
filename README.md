@@ -137,5 +137,5 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <br>
 <img alt="Prashant's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=prashantrahul141&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&border_radius=8" height="192px"/>
 <br>
-<img alt="Prashant's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=prashantrahul141&bg_color=1F222E&color=21A6A6&line=1DF2DD&point=F8D866&hide_border=true&title_color=1DF2DD&radius=10&area=true&area_color=21a6a6&border_radius=8" />
+<img alt="Prashant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=prashantrahul141&bg_color=1F222E&color=21A6A6&line=1DF2DD&point=F8D866&hide_border=true&title_color=1DF2DD&radius=10&area=true&area_color=21a6a6&border_radius=8" />
 </details>
