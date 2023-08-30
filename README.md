@@ -31,8 +31,7 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 
 <br>
 <!-- Projects -->
-<details open>
-<summary><h2>📘 Projects</h2></summary>
+<summary><h2>Projects</h2></summary>
  
  <a target='_blank' href="https://github.com/prashantrahul141/plex">
 <img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=plex&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="plex"/>
@@ -63,42 +62,42 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <br>
 <a href="https://github.com/prashantrahul141?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=1DF2DD&logo=repo&border_radius=6"/></a>
 
-</details>
 <br>
 
 <!-- fav tools -->
-<details open>
-<summary><h2>🛠️ My Favourite Tools</h2></summary>
-
-<h4>👨‍💻 Programming and Markup Languages</h4>
-<img alt="Python" src="https://img.shields.io/badge/Python-04211e.svg?logo=python&logoColor=1DF2DD&style=for-the-badge">
+<!-- <summary><h2>️My Favourite Tools</h2></summary> -->
+<br>
+<h4>Programming and Markup Languages</h4>
+<img alt="rust" src="https://custom-icon-badges.demolab.com/badge/rust-04211e?logo=rust&logoColor=1DF2DD&style=for-the-badge">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-04211e.svg?logo=typescript&logoColor=1DF2DD&style=for-the-badge">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-04211e.svg?logo=javascript&logoColor=1DF2DD&style=for-the-badge">
-<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-04211e.svg?logo=cs2&logoColor=1DF2DD&style=for-the-badge">
+<img alt="Python" src="https://img.shields.io/badge/Python-04211e.svg?logo=python&logoColor=1DF2DD&style=for-the-badge">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-04211e.svg?logo=cpp2&logoColor=1DF2DD&style=for-the-badge">
-<img alt="rust" src="https://custom-icon-badges.demolab.com/badge/rust-04211e?logo=rust&logoColor=1DF2DD&style=for-the-badge">
+<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-04211e.svg?logo=cs2&logoColor=1DF2DD&style=for-the-badge">
 <img alt="kotlin" src="https://custom-icon-badges.demolab.com/badge/kotlin-04211e?logo=kotlin&logoColor=1DF2DD&style=for-the-badge">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-04211e.svg?logo=css3&logoColor=1DF2DD&style=for-the-badge">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-04211e.svg?logo=html5&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-04211e.svg?logo=markdown&logoColor=1DF2DD&style=for-the-badge">
 <br>
-<h4>🧰 Frameworks and Libraries</h4>
+<h4>Frameworks and Libraries</h4>
 <img alt="NEXT.js" src="https://img.shields.io/badge/NextJS-04211e.svg?logo=nextdotjs&logoColor=1DF2DD&style=for-the-badge">
 <img alt="React" src="https://img.shields.io/badge/React-04211e.svg?logo=react&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-04211e.svg?logo=tailwindcss&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-04211e.svg?logo=prisma&logoColor=1DF2DD&style=for-the-badge">
 <img alt="tRPC" src="https://img.shields.io/badge/tRPC-04211e.svg?logo=trpc&logoColor=1DF2DD&style=for-the-badge">
-<img alt="tRPC" src="https://img.shields.io/badge/tRPC-04211e.svg?logo=trpc&logoColor=1DF2DD&style=for-the-badge">
+<img alt="tRPC" src="https://img.shields.io/badge/framer-04211e.svg?logo=framer&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-04211e.svg?logo=express&logoColor=1DF2DD&style=for-the-badge">
 <img alt="MUI" src="https://img.shields.io/badge/MUI-04211e.svg?logo=mui&logoColor=1DF2DD&style=for-the-badge">
 <img alt="flutter" src="https://img.shields.io/badge/flutter-04211e.svg?logo=flutter&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Threejs" src="https://img.shields.io/badge/Three.js-04211e.svg?logo=Threedotjs&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-04211e.svg?logo=flask&logoColor=1DF2DD&style=for-the-badge">
+<img alt="Flask" src="https://img.shields.io/badge/socketdotio-04211e.svg?logo=socketdotio&logoColor=1DF2DD&style=for-the-badge">
+<img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/unity-04211e.svg?logo=unity&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Pygame" src="https://custom-icon-badges.demolab.com/badge/Pygame-04211e.svg?logo=pygame&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-04211e.svg?logo=dpy&logoColor=1DF2DD&style=for-the-badge">
 
 <br>
-<h4>🗄️ Databases and Cloud Hosting</h4>
+<!-- <h4>🗄️ Databases and Cloud Hosting</h4>
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-04211e.svg?logo=vercel&logoColor=1DF2DD&style=for-the-badge">
 <img alt="railway" src="https://img.shields.io/badge/Railway-04211e.svg?logo=railway&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-04211e.svg?logo=Netlify&logoColor=1DF2DD&style=for-the-badge">
@@ -123,19 +122,16 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <img alt="Brave" src="https://img.shields.io/badge/-Brave-04211e?logo=brave&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-04211e?logo=dark-reader&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-04211e.svg?logo=android-studio&logoColor=1DF2DD&style=for-the-badge">
-<img alt="Audacity" src="https://img.shields.io/badge/-Audacity-04211e.svg?logo=audacity&logoColor=1DF2DD&style=for-the-badge">
-</details>
-<br>
-<!-- Github details -->
-<details open>
+<img alt="Audacity" src="https://img.shields.io/badge/-Audacity-04211e.svg?logo=audacity&logoColor=1DF2DD&style=for-the-badge"> -->
+
+<!-- <br> -->
+<!-- Github details
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 <h4>🔥 Streak Stats</h4>
 <img src='https://streak-stats.demolab.com?user=prashantrahul141&theme=dark&hide_border=true&border_radius=8&stroke=188585&ring=1DF2DD&currStreakLabel=1DF2DD&fire=B2F2EE&sideLabels=18C5B4&background=1F222E'/>
-
 <h4>💻 GitHub Profile Stats</h4>
 <img alt="Prashant's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=prashantrahul141&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide=Jupyter%20Notebook&border_radius=8" height="192px"/>
 <br>
 <img alt="Prashant's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=prashantrahul141&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&border_radius=8" height="192px"/>
 <br>
 <img alt="Prashant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=prashantrahul141&bg_color=1F222E&color=21A6A6&line=1DF2DD&point=F8D866&hide_border=true&title_color=1DF2DD&radius=10&area=true&area_color=21a6a6&border_radius=8" />
-</details>
