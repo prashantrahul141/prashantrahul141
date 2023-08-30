@@ -66,19 +66,17 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <!-- <summary><h2>️My Favourite Tools</h2></summary> -->
 <br>
 <h3>Programming and Markup Languages</h3>
-<img alt="Python" src="https://img.shields.io/badge/Python-04211e.svg?logo=python&logoColor=1DF2DD&style=for-the-badge">
+<img alt="rust" src="https://custom-icon-badges.demolab.com/badge/rust-04211e?logo=rust&logoColor=1DF2DD&style=for-the-badge">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-04211e.svg?logo=typescript&logoColor=1DF2DD&style=for-the-badge">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-04211e.svg?logo=javascript&logoColor=1DF2DD&style=for-the-badge">
-<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-04211e.svg?logo=cs2&logoColor=1DF2DD&style=for-the-badge">
+<img alt="Python" src="https://img.shields.io/badge/Python-04211e.svg?logo=python&logoColor=1DF2DD&style=for-the-badge">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-04211e.svg?logo=cpp2&logoColor=1DF2DD&style=for-the-badge">
-<img alt="rust" src="https://custom-icon-badges.demolab.com/badge/rust-04211e?logo=rust&logoColor=1DF2DD&style=for-the-badge">
+<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-04211e.svg?logo=cs2&logoColor=1DF2DD&style=for-the-badge">
 <img alt="kotlin" src="https://custom-icon-badges.demolab.com/badge/kotlin-04211e?logo=kotlin&logoColor=1DF2DD&style=for-the-badge">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-04211e.svg?logo=css3&logoColor=1DF2DD&style=for-the-badge">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-04211e.svg?logo=html5&logoColor=1DF2DD&style=for-the-badge">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-04211e.svg?logo=markdown&logoColor=1DF2DD&style=for-the-badge">
-
 <br>
-
 <h3>Frameworks and Libraries</h3>
 <img alt="NEXT.js" src="https://img.shields.io/badge/NextJS-04211e.svg?logo=nextdotjs&logoColor=1DF2DD&style=for-the-badge">
 <img alt="React" src="https://img.shields.io/badge/React-04211e.svg?logo=react&logoColor=1DF2DD&style=for-the-badge">
