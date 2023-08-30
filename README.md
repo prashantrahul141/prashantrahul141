@@ -2,13 +2,13 @@
 <!-- name -->
 <p align='center'>
 <a href='https://prashantrahul.com' target='_blank'>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=50&duration=2000&pause=1000000&color=1DF2DD&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Prashant+Rahul" alt="prashantrahul.com" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=800&size=35&duration=2000&pause=1000000&color=1DF2DD&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Prashant+Rahul" alt="prashantrahul.com" />
 </a>
 </p>
 
 <!-- Details -->
 <p align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&duration=3000&width=435&center=true&color=21A6A6&lines=Full-Stack+Web+Applications;Games;Desktop+Applications;Dev-Tools" alt="prashantrahul.com" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&pause=400&duration=3000&width=300&center=true&color=21A6A6&lines=Full+Stack+Web+Applications;Games;Desktop+Applications;Dev-Tools" alt="prashantrahul.com" />
 </p>
 
 <!-- badges -->
