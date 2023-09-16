@@ -96,8 +96,8 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 <img alt="socketio" src="https://img.shields.io/badge/socketdotio-04211e.svg?logo=socketdotio&logoColor=1DF2DD&style=for-the-badge">
 <img alt="unity" src="https://custom-icon-badges.demolab.com/badge/unity-04211e.svg?logo=unity&logoColor=1DF2DD&style=for-the-badge">
 <img alt="unreal" src="https://img.shields.io/badge/unreal-04211e.svg?logo=unrealengine&logoColor=1DF2DD&style=for-the-badge">
-<img alt="Pygame" src="https://custom-icon-badges.demolab.com/badge/Pygame-04211e.svg?logo=pygame&logoColor=1DF2DD&style=for-the-badge">
-<img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-04211e.svg?logo=dpy&logoColor=1DF2DD&style=for-the-badge">
+<!-- <img alt="Pygame" src="https://custom-icon-badges.demolab.com/badge/Pygame-04211e.svg?logo=pygame&logoColor=1DF2DD&style=for-the-badge"> -->
+<!-- <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-04211e.svg?logo=dpy&logoColor=1DF2DD&style=for-the-badge"> -->
 </div>
 
 <br>
