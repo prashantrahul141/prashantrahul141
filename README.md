@@ -42,29 +42,31 @@ Hi, my name is <b>Prashant Rahul</b>.<br>I am a <b>Software Developer</b>, speci
 </a>
 <br>
 
-<a target='_blank' href="https://github.com/prashantrahul141/PlayInSync-Server">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Server&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Server"/>
+<a target='_blank' href="https://github.com/prashantrahul141/kuwahara-filter">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=kuwahara-filter&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="kuwahara-filter"/>
 </a>
 
-<a target='_blank' href="https://github.com/prashantrahul141/PlayInSync-Client">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
+<a target='_blank' href="https://github.com/prashantrahul141/image-secret-text-c">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=image-secret-text-c&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="image-secret-text-c"/>
 </a>
-
 <br>
 
 <a target='_blank' href="https://github.com/prashantrahul141/ImageEffects">
 <img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=ImageEffects&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="ImageEffects"/>
 </a>
 
-<a target='_blank' href="https://github.com/prashantrahul141/Simple-Blog-App-with-NEXTJS">
-<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=Simple-Blog-App-with-NEXTJS&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="Simple-Blog-App-with-NextJs"/>
+<a target='_blank' href="https://github.com/prashantrahul141/PlayInSync-Client">
+<img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prashantrahul141&repo=PlayInSync-Client&theme=react&bg_color=1F222E&title_color=1DF2DD&icon_color=F8D866&hide_border=true&show_description=true&count_private=true&border_radius=6" alt="PlayInSync-Client"/>
 </a>
+
 <br>
 <a href="https://github.com/prashantrahul141?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=1DF2DD&logo=repo&border_radius=6"/></a>
 
 <!-- fav tools -->
 <!-- <summary><h2>️My Favourite Tools</h2></summary> -->
+
 <br><br>
+
 <h3>Programming and Markup Languages</h3>
 <div style="display: flex">
 <img alt="rust" src="https://custom-icon-badges.demolab.com/badge/rust-04211e?logo=rust&logoColor=1DF2DD&style=for-the-badge">
