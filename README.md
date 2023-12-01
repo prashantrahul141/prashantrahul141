@@ -3,6 +3,7 @@ Hi, my name is Prashant Rahul. I am a Software Developer, specializing in buildi
 #### Favourite Stuff
 
 ![Neovim](https://img.shields.io/badge/Neovim-0c1017.svg?logo=neovim&logoColor=54AEFF&style=for-the-badge)
+![Linux/Pop!_OS](https://img.shields.io/badge/Linux/Pop!_OS-0c1017.svg?logo=Pop!_OS&logoColor=54AEFF&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-0c1017.svg?logo=rust&logoColor=54AEFF&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/Typescript-0c1017.svg?logo=typescript&logoColor=54AEFF&style=for-the-badge)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-0c1017.svg?logo=cpp2&logoColor=54AEFF&style=for-the-badge)
