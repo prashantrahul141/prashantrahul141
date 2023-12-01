@@ -30,5 +30,5 @@ Hi, my name is Prashant Rahul. I am a Software Developer, specializing in buildi
 ![flutter](https://img.shields.io/badge/flutter-0c1017.svg?logo=flutter&logoColor=54AEFF&style=for-the-badge)
 ![Threejs](https://img.shields.io/badge/Three.js-0c1017.svg?logo=Threedotjs&logoColor=54AEFF&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-0c1017.svg?logo=flask&logoColor=54AEFF&style=for-the-badge)
-![socketio](https://img.shields.io/badge/socketdotio-0c1017.svg?logo=socketdotio&logoColor=54AEFF&style=for-the-badge)
+![socketio](https://img.shields.io/badge/socket.io-0c1017.svg?logo=socketdotio&logoColor=54AEFF&style=for-the-badge)
 ![unity](https://custom-icon-badges.demolab.com/badge/unity-0c1017.svg?logo=unity&logoColor=54AEFF&style=for-the-badge)
