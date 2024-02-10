@@ -1,4 +1,4 @@
-Hi, my name is Prashant Rahul. I am a Software Developer, specializing in building Modern, Robust, Full-Stack Web Applications. I also make stuff using Graphics APIs, Games, Desktop Applications and Dev-Tools.
+Hi, my name is Prashant Rahul. I am a Software Developer, specializing in building Modern, Robust, Full-Stack Web Applications. I also work with/on Compilers, Interpreters, Graphics APIs, Games, Desktop Applications and Dev-Tools.
 
 #### Favourite Stuff
 
