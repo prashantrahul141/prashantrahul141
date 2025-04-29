@@ -8,7 +8,7 @@ OS: NixOS (Vicuna)
 Shell: zsh
 DE: Hyprland (Wayland)
 Theme: Gruvbox
-Terminal: kitty
+Terminal: WezTerm
 Editor: Neovim & Zed
 Font: FiraCode
 Stuff:
