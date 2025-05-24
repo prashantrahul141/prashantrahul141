@@ -4,7 +4,7 @@ mail me at [prashantrahul141@protonmail.com](mailto:prashantrahul141@protonmail.
 my PGP fingerprint: 9309 A964 E07A B493 8CED 9657 8770 981A 6FA2 8826
 
 ```env
-OS: NixOS (Vicuna)
+OS: NixOS (Warbler)
 Shell: zsh
 DE: Hyprland (Wayland)
 Theme: Gruvbox
