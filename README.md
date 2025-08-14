@@ -1,7 +1,7 @@
 Hi, my name is Prashant Rahul. I am an undergraduate junior interested in building and tinkering with compilers and interpreters. I also work on emulators, graphics APIs, games, cross-platform applications, and full-stack web experiences.\
 i sometimes post [here](https://prashantrahul.com/posts/)\
 mail me at [prashantrahul141@protonmail.com](mailto:prashantrahul141@protonmail.com)\
-my PGP fingerprint: 9309 A964 E07A B493 8CED 9657 8770 981A 6FA2 8826
+my PGP fingerprint: 52E5 EB11 E8C3 F785 0B34 4ACC 6C3E 91A8 D7F0 386D
 
 ```env
 OS: NixOS (Warbler)
